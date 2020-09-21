@@ -102,3 +102,17 @@ h1{
     background-color: rgb(221, 99, 99);
     float: right;
 }
+
+#recipe {
+    background-image: url(../img/list-bg.png);
+    display: flex;
+    margin: 40px 0px;
+  }
+
+  ul li {
+    list-style-type: none;
+    
+  }
+  .lii{
+      padding-left: 55px ;
+  }
